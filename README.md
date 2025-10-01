@@ -1,4 +1,4 @@
-![Habit Tracker Illustration](https://github.com/Tech4Dami/Habit-Tracker-Application/blob/261505721b459b80e99cb23921c1575be0b4ccc4/illustration-shows-woman-using-habit-tracker-app-her-phone-generated-ai-app-features-calendar-interface-374058192.webp?raw=true)
+![Habit Tracker App](https://raw.githubusercontent.com/Tech4Dami/Habit-Tracker-Application/6b7ffbdb95efffb7fc63ca133affbdaa18a330ab/68380f10bf9aa82ffb4948a8_6837bab4d3b9661981876c99-1748502910389.avif)
 
 # Habit Tracker Application 
 
